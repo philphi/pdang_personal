@@ -29,15 +29,12 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Electrical Engineering with Business
+      institution: University of Melbourne
+      year: 2020
+    - course: BCom in Economics & Finance
+      institution: University of Melbourne
+      year: 2017
 superuser: true
 last_name: Bighetti
 highlight_name: true
