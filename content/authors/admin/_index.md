@@ -2,8 +2,7 @@
 title: Philip Dang
 role: ""
 avatar_filename: 20220827142357_img_5564.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
