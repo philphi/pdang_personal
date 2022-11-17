@@ -1,7 +1,7 @@
 ---
 title: Philip Dang
 role: ""
-avatar_filename: 20220827142357_img_5564.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
